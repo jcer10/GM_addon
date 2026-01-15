@@ -376,14 +376,16 @@ def print_vehicle_with_battery(v):
     print(f"{color}{v['plate']} → {v['address']}{RESET}")
     print(f"{color}Battery: {battery_pct}%{RESET}")
 
-
+def load_start_address(filename="start_address.txt"):
+    with open(filename, "r", encoding="utf-8") as f:
+        return f.read().strip()
 
 
 def main():
     vehicle_file = "vehicles.txt"
     config_file = "zip_code_ignore.yml"
 
-    START_ADDRESS = "Nørreport St"
+    START_ADDRESS = load_start_address()
     DELAY_BETWEEN_SEARCHES = 1.5
     TIME_REST = 1
 
