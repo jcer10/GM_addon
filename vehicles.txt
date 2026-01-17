@@ -6,185 +6,89 @@ Remember: The trip must always end in the drop-off area, or you will pay for the
 First come, first serve! New trips are added regularly, so stay tuned. 💚
 
 Vehicle
-DR11704
-Søborg Parkalle
-2870 Dyssegård
+DD72520
+Sortebrødre Plads 1
+4000 Roskilde
 20 minutes
-100 %
+19 %
 Vehicle
-CB31146
-Charlottenlundvej 9
-2900 Hellerup
-20 minutes
-69 %
-Vehicle
-DC47406
-Ingeborgvej 44
-2900 Hellerup
-20 minutes
-95 %
-Vehicle
-CE58910
-Rosenstandsvej 8
-2920 Charlottenlund
-20 minutes
-42 %
-Vehicle
-CE58925
-Johannevej 28
-2920 Charlottenlund
-20 minutes
-66 %
-Vehicle
-DZ55124
-Søndre Havnevej 14
-2920 Charlottenlund
-20 minutes
-91 %
-Vehicle
-CS24250
-Langagervej 63
-2500 Copenhagen
-20 minutes
-100 %
-Vehicle
-BV91447
-Bjerringbrovej 126
-2610 Rødovre
-20 minutes
-54 %
-Vehicle
-BS81043
-Adolphsvej 10
-2820 Gentofte
-20 minutes
-85 %
-Vehicle
-CX86690
-Vespervej 12
-2900 Hellerup
-20 minutes
-85 %
-Vehicle
-CX86646
-Ericaparken 5
-2820 Gentofte
-20 minutes
-64 %
-Vehicle
-DC47405
-Ericaparken
-2870 Dyssegård
-20 minutes
-46 %
-Vehicle
-DC61218
-Christianehøj 134
-2860 Søborg
-20 minutes
-58 %
-Vehicle
-DD51658
-Andersen Nexø Vej 18
-2860 Søborg
+DE16318
+Fruegade 7
+4000 Roskilde
 20 minutes
 21 %
 Vehicle
-DE48510
-Skovshoved Havn
-2930 Klampenborg
+DZ80998
+Mosesvinget 18
+2400 Copenhagen
 20 minutes
-100 %
+86 %
 Vehicle
-DE88636
-Tjørnelunds Allé 6
-2500 Copenhagen
+EA56799
+Nellikevej 15
+2820 Gentofte
 20 minutes
-81 %
+56 %
 Vehicle
-DG12367
+EB29792
 Bjerringbrovej 126
 2610 Rødovre
 20 minutes
-84 %
+57 %
 Vehicle
-DF15125
-Bjerringbrovej 126
-2610 Rødovre
-20 minutes
-97 %
-Vehicle
-BT88534
-Fabritius Alle 12B
-2930 Klampenborg
-20 minutes
-24 %
-Vehicle
-DY18944
-Langagervej 63
-2500 Copenhagen
-20 minutes
-100 %
-Vehicle
-DZ55100
-Harrestrupvang 26
-2500 Copenhagen
-20 minutes
-78 %
-Vehicle
-DZ81012
-Vigerslevvej
-2500 Copenhagen
-20 minutes
-100 %
-Vehicle
-EC12338
-Skovshoved Havn
-2930 Klampenborg
-20 minutes
-100 %
-Vehicle
-EB61358
-Christianehøj 138
-2860 Søborg
-20 minutes
-76 %
-Vehicle
-EC63446
-Ingeborgvej 53A
-2900 Hellerup
-20 minutes
-64 %
-Vehicle
-DY44099
-Bjerringbrovej 126
-2610 Rødovre
-20 minutes
-48 %
-Vehicle
-DY44130
-Skovshoved Havn
-2930 Klampenborg
-20 minutes
-100 %
-Vehicle
-ED35720
-Ericavej
+EC12344
+Røntoftevej 48B
 2870 Dyssegård
 20 minutes
 53 %
 Vehicle
-CN66712
-Tranekærvej 68P
-8240 Aarhus
+EC31136
+Dalvej 18
+2820 Gentofte
+20 minutes
+90 %
+Vehicle
+DR11690
+Hørkær 8F
+2730 Herlev
+20 minutes
+62 %
+Vehicle
+DY74212
+Lautrupvang
+2740 Ballerup
+20 minutes
+49 %
+Vehicle
+BV17568
+Sømoseparken
+2740 Ballerup
+20 minutes
+50 %
+Vehicle
+CL91950
+Tousvej 88
+8230 Aarhus
 25 minutes
-33 %
+44 %
+Vehicle
+CN52302
+Anelystvej
+8381 Tilst
+25 minutes
+53 %
+Vehicle
+CL91960
+Agro Food Park
+8210 Aarhus
+25 minutes
+96 %
 Vehicle
 DA63036
 Ormslevvej
 8260 Aarhus
 25 minutes
-47 %
+40 %
 Vehicle
 DG12353
 Torve Allé
@@ -192,117 +96,8 @@ Torve Allé
 25 minutes
 10 %
 Vehicle
-DG12354
-Ormslevvej
-8260 Aarhus
+DR11587
+Bindesbølls Allé 12
+8240 Aarhus
 25 minutes
-15 %
-Vehicle
-DJ90191
-Kirketorvet
-8310 Tranbjerg
-25 minutes
-28 %
-Vehicle
-DR11654
-Torve Allé
-8310 Tranbjerg
-25 minutes
-19 %
-Vehicle
-EM70662
-Sigridsvej
-8220 Aarhus
-25 minutes
-50 %
-Vehicle
-EB83097
-Ørestads Boulevard
-2770 Copenhagen
-20 minutes
-79 %
-Vehicle
-EC63452
-Ejler Billes Allé
-2770 Copenhagen
-20 minutes
-72 %
-Vehicle
-EB29784
-Ejler Billes Allé
-2770 Copenhagen
-20 minutes
-90 %
-Vehicle
-DD24390
-Ejler Billes Allé 10
-2300 Copenhagen
-20 minutes
-100 %
-Vehicle
-DY44112
-Ejler Billes Allé
-2770 Copenhagen
-20 minutes
-100 %
-Vehicle
-DE88704
-Ejler Billes Allé
-2770 Copenhagen
-20 minutes
-39 %
-Vehicle
-DP52232
-Ejler Billes Allé 10
-2300 Copenhagen
-20 minutes
-98 %
-Vehicle
-CX87443
-Dexter Gordons Vej 9
-2450 Copenhagen
-20 minutes
-15 %
-Vehicle
-DY44148
-Dexter Gordons Vej 62
-2450 Copenhagen
-20 minutes
-50 %
-Vehicle
-BT88540
-Bobakken
-2720 Copenhagen
-20 minutes
-67 %
-Vehicle
-DZ55132
-Bispebjerg Torv 10B
-2400 Copenhagen
-20 minutes
-68 %
-Vehicle
-EC20875
-C. J. Brandts Vej 16
-2400 Copenhagen
-20 minutes
-72 %
-Vehicle
-CX86696
-Hørkær 8F
-2730 Herlev
-20 minutes
-100 %
-Vehicle
-CN71720
-Rygårds Allé 133
-2900 Copenhagen
-20 minutes
-61 %
-Vehicle
-DR11632
-Søborg Parkalle 194
-2860 Søborg
-20 minutes
-16 %
-GreenMobility
+46 %

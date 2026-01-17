@@ -14,6 +14,17 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 
+# ===== Terminal colors =====
+RESET      = "\033[0m"
+
+RED        = "\033[91m"
+GREEN      = "\033[92m"
+YELLOW     = "\033[93m"
+BLUE       = "\033[94m"
+PURPLE     = "\033[95m"
+LIGHT_BLUE = "\033[96m"   # cyan / light blue
+
+
 def load_ignored_zip_codes(config_file):
     with open(config_file, "r", encoding="utf-8") as file:
         config = yaml.safe_load(file)
@@ -357,15 +368,10 @@ def print_vehicle_with_battery(v):
     # Extract numeric battery percentage
     battery_pct = int(v["battery"].replace("%", "").strip())
 
-    RESET = "\033[0m"
-    PURPLE = "\033[95m"
-    BLUE = "\033[94m"
-    GREEN = "\033[92m"
-
     if battery_pct < 20:
         color = PURPLE     # was green → now purple
     elif battery_pct < 40:
-        color = BLUE       # was yellow → now blue
+        color = LIGHT_BLUE       # was yellow → now blue
     elif battery_pct < 60:
         color = GREEN      # was red → now green
     else:
