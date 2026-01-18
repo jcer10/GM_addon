@@ -1,5 +1,6 @@
 import yaml
 import time
+import urllib.parse
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -386,6 +387,18 @@ def load_start_address(filename="start_address.txt"):
     with open(filename, "r", encoding="utf-8") as f:
         return f.read().strip()
 
+def google_maps_public_transport_url(from_address, to_address):
+    """
+    Build a Google Maps public transport directions URL.
+    """
+    base_url = "https://www.google.com/maps/dir/?api=1"
+    params = {
+        "origin": from_address,
+        "destination": to_address,
+        "travelmode": "transit"
+    }
+    return f"{base_url}&{urllib.parse.urlencode(params)}"
+
 
 def main():
     vehicle_file = "vehicles.txt"
@@ -434,6 +447,12 @@ def main():
             print(f"   🕒 {travel_time} | 🔁 {changes} skift")
         else:
             print("   ⚠️ No connection found")
+        
+        maps_link = google_maps_public_transport_url(
+            START_ADDRESS,
+            v["address"]
+        )
+        print(f"📍 Google Maps (PT): {maps_link}")
 
         time.sleep(DELAY_BETWEEN_SEARCHES)
 

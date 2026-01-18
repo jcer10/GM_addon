@@ -6,98 +6,122 @@ Remember: The trip must always end in the drop-off area, or you will pay for the
 First come, first serve! New trips are added regularly, so stay tuned. 💚
 
 Vehicle
-DD72520
-Sortebrødre Plads 1
-4000 Roskilde
+EA75176
+Ove Arups Vej
+1561 Copenhagen
+20 minutes
+39 %
+Vehicle
+DC47409
+Ove Arups Vej
+1561 Copenhagen
+20 minutes
+75 %
+Vehicle
+DE88751
+Ove Arups Vej
+1561 Copenhagen
+20 minutes
+94 %
+Vehicle
+EB29771
+Sjælør Boulevard 55
+2450 Copenhagen
+20 minutes
+47 %
+Vehicle
+DP52236
+Carl Jacobsens Vej
+2450 Copenhagen
+20 minutes
+44 %
+Vehicle
+DR11614
+Borgmester Ib Juuls Vej 71
+2730 Herlev
+20 minutes
+53 %
+Vehicle
+DZ55139
+Skovbrynet 24
+2800 Kongens Lyngby
 20 minutes
 19 %
 Vehicle
-DE16318
-Fruegade 7
-4000 Roskilde
+DZ81025
+Skovbrynet 22
+2800 Kongens Lyngby
 20 minutes
-21 %
+8 %
 Vehicle
-DZ80998
-Mosesvinget 18
-2400 Copenhagen
+BV17568
+Kaplevej 71
+2830 Kongens Lyngby
 20 minutes
-86 %
+37 %
 Vehicle
-EA56799
-Nellikevej 15
-2820 Gentofte
+DE88740
+Edvard Thomsens Vej
+1561 Copenhagen
+20 minutes
+29 %
+Vehicle
+DY56294
+Edvard Thomsens Vej
+1561 Copenhagen
+20 minutes
+23 %
+Vehicle
+DZ55100
+Ove Arups Vej
+1561 Copenhagen
+20 minutes
+30 %
+Vehicle
+DZ80995
+Ove Arups Vej
+1561 Copenhagen
+20 minutes
+7 %
+Vehicle
+DR11667
+Edvard Thomsens Vej
+1561 Copenhagen
+20 minutes
+41 %
+Vehicle
+DZ92223
+Vestre Hospitalsvej
+2650 Hvidovre
+20 minutes
+100 %
+Vehicle
+DR11630
+Stubmøllevej 9
+2450 Copenhagen
 20 minutes
 56 %
 Vehicle
-EB29792
-Bjerringbrovej 126
-2610 Rødovre
+DZ92202
+Stubmøllevej 11
+2450 Copenhagen
 20 minutes
-57 %
+100 %
 Vehicle
-EC12344
-Røntoftevej 48B
-2870 Dyssegård
+DZ55093
+Skovbrynet 22
+2800 Kongens Lyngby
 20 minutes
-53 %
+19 %
 Vehicle
-EC31136
-Dalvej 18
-2820 Gentofte
+DR11663
+Skovbrynet 24
+2800 Kongens Lyngby
 20 minutes
-90 %
+16 %
 Vehicle
-DR11690
-Hørkær 8F
-2730 Herlev
+DR11721
+Skovbrynet 22
+2800 Kongens Lyngby
 20 minutes
-62 %
-Vehicle
-DY74212
-Lautrupvang
-2740 Ballerup
-20 minutes
-49 %
-Vehicle
-BV17568
-Sømoseparken
-2740 Ballerup
-20 minutes
-50 %
-Vehicle
-CL91950
-Tousvej 88
-8230 Aarhus
-25 minutes
-44 %
-Vehicle
-CN52302
-Anelystvej
-8381 Tilst
-25 minutes
-53 %
-Vehicle
-CL91960
-Agro Food Park
-8210 Aarhus
-25 minutes
-96 %
-Vehicle
-DA63036
-Ormslevvej
-8260 Aarhus
-25 minutes
-40 %
-Vehicle
-DG12353
-Torve Allé
-8310 Tranbjerg
-25 minutes
-10 %
-Vehicle
-DR11587
-Bindesbølls Allé 12
-8240 Aarhus
-25 minutes
-46 %
+43 %
